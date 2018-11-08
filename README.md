@@ -1,6 +1,6 @@
 # PLP 514 Phytobacteriology 
 
-- Venue: 	Washington State University, Pullman Washington USA
+- Venue: 	Washington State University, Pullman, Washington USA.
 - Date: 	Fall 2018
 - Credits: 3 credit Class
 - Office hours: by appointment
