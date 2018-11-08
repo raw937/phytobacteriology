@@ -10,7 +10,7 @@
 - Dr. Maren Friesen
 - Email: m.friesen@wsu.edu
 
-#### Quest lecturer - Computational Biology:	
+#### Quest lecturer - Computational Biology	
 - Dr. Richard Allen White III
 - Email: raw937@gmail.com
 
