@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1906px" height="992px" viewBox="0 0 1906 992"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<rect x="0" y="0" width="1906" height="992" fill="none" stroke="rgb(192,192,192)" stroke-width="1"/>
+<text x="1727" y="988" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="80">DQ019166.1</text>
+<text x="1817" y="869" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="79">FN994191.1</text>
+<text x="1597" y="750" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="61">NZ_JMEH</text>
+<text x="1624" y="631" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="59">NZ_ATCL</text>
+<text x="1594" y="936" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="16">59</text>
+<text x="1594" y="683" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="16">63</text>
+<text x="1637" y="512" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="86">NR_075006.1</text>
+<text x="1785" y="392" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="86">NR_043477.1</text>
+<text x="1665" y="273" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="57">ES66432</text>
+<text x="1635" y="325" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="16">62</text>
+<text x="1718" y="154" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="61">X70313.1</text>
+<text x="1447" y="430" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="16">96</text>
+<text x="934" y="817" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="16">97</text>
+<text x="934" y="281" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="16">92</text>
+<text x="1817" y="35" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="74">AJ302709.1</text>
+<line x1="1625" y1="983" x2="1724" y2="983" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1625" y1="864" x2="1815" y2="864" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1625" y1="983" x2="1625" y2="864" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1594" y1="745" x2="1594" y2="745" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1594" y1="626" x2="1621" y2="626" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1594" y1="745" x2="1594" y2="626" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1594" y1="923" x2="1625" y2="923" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1594" y1="685" x2="1594" y2="685" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1594" y1="923" x2="1594" y2="685" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1649" y1="387" x2="1782" y2="387" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1649" y1="268" x2="1663" y2="268" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1649" y1="387" x2="1649" y2="268" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1635" y1="507" x2="1635" y2="507" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1635" y1="328" x2="1649" y2="328" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1635" y1="507" x2="1635" y2="328" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1447" y1="417" x2="1635" y2="417" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1447" y1="149" x2="1716" y2="149" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1447" y1="417" x2="1447" y2="149" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="934" y1="804" x2="1594" y2="804" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="934" y1="283" x2="1447" y2="283" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="934" y1="804" x2="934" y2="283" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="12" y1="544" x2="934" y2="544" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="12" y1="30" x2="1815" y2="30" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="12" y1="544" x2="12" y2="30" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1595" y1="13" x2="1811" y2="13" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1595" y1="17" x2="1595" y2="9" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="1811" y1="17" x2="1811" y2="9" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<text x="1689" y="11" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="28">0.01</text>
+</svg>
