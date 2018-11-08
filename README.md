@@ -1,10 +1,10 @@
 # PLP 514 Phytobacteriology 
 
-### Venue: 	Washington State University, Pullman Washington USA
-### Date: 	Fall 2018
-### Credits: 3 credit Class
-### Office hours: by appointment
-### Meeting times: T/Th 10:35-11:50
+- Venue: 	Washington State University, Pullman Washington USA
+- Date: 	Fall 2018
+- Credits: 3 credit Class
+- Office hours: by appointment
+- Meeting times: T/Th 10:35-11:50
 
 #### Instructor:	
 - Dr. Maren Friesen
